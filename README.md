@@ -1,5 +1,4 @@
-[![Build Status](https://travis-ci.org/macikokoro/travis.svg?branch=master)](https://travis-ci.org/macikokoro/travis)
-
+[![Build Status](https://travis-ci.org/macikokoro/travis.svg?branch=travis-ci)](https://travis-ci.org/macikokoro/travis)
 
 ## Travis CI  
 ============================
