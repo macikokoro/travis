@@ -15,7 +15,7 @@ describe('Counter Object', function() {
   });
 
   it('Should return the current value', function() {
-    // counterObject.increment();
+  
     expect(counterObject.getValue()).to.eql(1);
   });
 });
